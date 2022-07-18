@@ -2,6 +2,8 @@
 
 <div align=center>
   
+  <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coldwoong&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coldwoong&exclude_repo=coldwoong,Mac-Settings,dev-place,coldwoong.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
