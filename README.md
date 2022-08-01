@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&layout=compact&theme=gotham&include_all_commits=true&exclude_repo=Mac-Settings,coldwoong,coldwoong.github.io"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&layout=compact&theme=gotham&include_all_commits=true&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/>
 <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,coldwoong,coldwoong.github.io"/>
 
 
