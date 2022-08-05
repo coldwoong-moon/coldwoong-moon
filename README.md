@@ -8,7 +8,7 @@
 
 </pre>
 
-# Tech Stack 🚀
+### 🚀 Tech Stack 🚀
                                                                                                     
 <img src="https://img.shields.io/badge/.NET Core-7F2B7B?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
@@ -27,9 +27,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&hide_border=true&layout=compact&theme=gotham&include_all_commits=true&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
 
 <!--
 **coldwoong/coldwoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
