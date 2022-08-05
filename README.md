@@ -8,7 +8,7 @@
 
 </pre>
 
-## Psuedo DevOps
+## 🚀 Psuedo DevOps
     
 <img src="https://img.shields.io/badge/.NET Core-7F2B7B?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
