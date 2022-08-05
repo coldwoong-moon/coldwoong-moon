@@ -1,4 +1,5 @@
-<pre align=center>
+<div align=center>
+<pre align>
     ____  _______    __    _       ______  ____  _   ________          
    / __ \/ ____/ |  / /   | |     / / __ \/ __ \/ | / / ____/ __    __ 
   / / / / __/  | | / /____| | /| / / / / / / / /  |/ / / ____/ /___/ /_
@@ -43,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
