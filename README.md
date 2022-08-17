@@ -8,8 +8,6 @@
 
 </pre>
 
-## 🚀 Psuedo DevOps
-
 <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
@@ -29,7 +27,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
 
-<a href="https://dev-woong.io"><img src="https://img.shields.io/badge/📍 My Blog -333333?style=for-the-badge&logoColor=white"/></a>
+<!--<a href="https://dev-woong.io"><img src="https://img.shields.io/badge/📍 My Blog -333333?style=for-the-badge&logoColor=white"/></a>-->
 
 <!--
 **coldwoong/coldwoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
