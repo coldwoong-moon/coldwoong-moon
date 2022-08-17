@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
 
 <!--<a href="https://dev-woong.io"><img src="https://img.shields.io/badge/📍 My Blog -333333?style=for-the-badge&logoColor=white"/></a>-->
