@@ -1,5 +1,9 @@
+<div align=right>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-woong&count_bg=%234778BE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Viewers&edge_flat=true"/></a>
+</div>
+
 <div align=center>
-<pre align>
+<pre>
     ____  _______    __    _       ______  ____  _   ________          
    / __ \/ ____/ |  / /   | |     / / __ \/ __ \/ | / / ____/ __    __ 
   / / / / __/  | | / /____| | /| / / / / / / / /  |/ / / ____/ /___/ /_
@@ -26,13 +30,14 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 
 <table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&layout=compact&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
-</td></tr>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&layout=compact&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
+        </td>
+    </tr>
 </table>
 
 <!--<a href="https://dev-woong.io"><img src="https://img.shields.io/badge/Blog -00C7B7?style=for-the-badge&logo=hugo&logoColor=white"/></a>-->
