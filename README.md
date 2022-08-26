@@ -32,10 +32,10 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
+            <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Awesome-Profile-README-templates,Study-Notes,Test-Foam,Mac-Settings,dev-woong,dev-woong.github.io"/></a>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&layout=compact&theme=gotham&exclude_repo=Mac-Settings,dev-woong,dev-woong.github.io"/></a>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&layout=compact&theme=gotham&exclude_repo=Awesome-Profile-README-templates,Study-Notes,Test-Foam,Mac-Settings,dev-woong,dev-woong.github.io"/></a>
         </td>
     </tr>
 </table>
