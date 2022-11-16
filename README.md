@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Mac%20OS-333333?style=flat-square&logo=apple&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/Linux-DC8634?style=flat-square&logo=linux&logoColor=white"/><a/>
+<img src="https://img.shields.io/badge/Linux-DC8735?style=flat-square&logo=linux&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Jetbrains%20Rider-000000?style=flat-square&logo=rider&logoColor=white"/></a>
