@@ -15,34 +15,34 @@
 
 </pre>-->
 
+</div>
+
+## Develop : 
+
 <img src="https://img.shields.io/badge/.NET Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white"/></a>
+<!--<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>-->
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/></a>
+
+## Operating System : 
 
 <img src="https://img.shields.io/badge/Mac%20OS-333333?style=flat-square&logo=apple&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/Linux-DC8735?style=flat-square&logo=linux&logoColor=white"/><a/>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 
+## Tool & Platform : 
+
+<img src="https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jetbrains%20Rider-000000?style=flat-square&logo=rider&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Awesome-Profile-README-templates,Study-Notes,Test-Foam,Mac-Settings,dev-woong,dev-woong.github.io"/></a>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-woong&layout=compact&theme=gotham&exclude_repo=Awesome-Profile-README-templates,Study-Notes,Test-Foam,Mac-Settings,dev-woong,dev-woong.github.io"/></a>
-        </td>
-    </tr>
-</table>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dev-woong&show_icons=true&theme=gotham&exclude_repo=Awesome-Profile-README-templates,Study-Notes,Test-Foam,Mac-Settings,dev-woong,dev-woong.github.io"/>
 
 <!--<a href="https://dev-woong.io"><img src="https://img.shields.io/badge/Blog -00C7B7?style=for-the-badge&logo=hugo&logoColor=white"/></a>-->
 
@@ -60,4 +60,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
